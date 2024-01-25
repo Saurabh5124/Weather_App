@@ -113,9 +113,9 @@ body {
 }
 
 @media only screen and (max-width: 750px) {
-    body {
+/*     body {
         margin-left: -140px;
-    }
+    } */
     
     .card {
         width: 60%;
