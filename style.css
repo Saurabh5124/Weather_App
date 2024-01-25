@@ -113,17 +113,14 @@ body {
 }
 
 @media only screen and (max-width: 360px) {
-/*     body {
-        margin-left: -140px;
-    } */
-    
-    .card {
-        width: 60%;
+.card {
+        width: 100%;
         max-width: 570px;
-/*         left: 0; */
+        left: 0;
     }
 
     .search input {
+        width: 100%;
         padding: 10px 15px;
         font-size: 18px;
         font-weight: 800;
